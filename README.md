@@ -1,4 +1,9 @@
-# Enjoy-player
+# Enjoy-player 已停更；
+
+# 推荐同类：[七星追剧-官网](https://gitee.com/fjcq/qixing-zhuiju/releases)；
+
+内含接口；支持苹果CMS资源站的视频播放；[此处下载备份](https://github.com/lhj1618GitHub/Enjoy-player/releases/tag/20250920) 和额外接口，非最新。
+
 
 English | [简体中文](./README-zh_CN.md)
 
